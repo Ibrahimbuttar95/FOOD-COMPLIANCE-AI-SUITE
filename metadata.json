@@ -1,0 +1,6 @@
+{
+  "name": "Food Compliance AI Suite",
+  "description": "Comprehensive AI-driven food safety, FDA/EU labeling, nutrition facts generator, allergen checker, recipe costing, and shelf-life compliance suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
